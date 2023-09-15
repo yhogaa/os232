@@ -15,3 +15,6 @@ Perfect website for learning about operating systems and also featuring exams to
 
 4. [Tutorial Belajar Git untuk Pemula](https://www.petanikode.com/tutorial/git/)<br>
 This is a good GitHub tutorial for beginners because it provides step-by-step instructions.
+
+5. [Learn Linux TV ](https://www.youtube.com/@LearnLinuxTV)<br>
+YouTube channel that has all the videos related to Linux
