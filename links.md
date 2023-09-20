@@ -18,3 +18,9 @@ This is a good GitHub tutorial for beginners because it provides step-by-step in
 
 5. [Learn Linux TV ](https://www.youtube.com/@LearnLinuxTV)<br>
 YouTube channel that has all the videos related to Linux
+
+6. [Bash in 100 Seconds]( https://youtu.be/I4EWvMFj37g?si=SXre1vRthWVsJOfo)<br>
+Explains bash in just 100 seconds
+
+7. [Fireship](https://youtube.com/@Fireship?si=xWP3np_O0FVbtTyI)<br>
+Great Youtube channel for developers
