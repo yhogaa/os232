@@ -7,7 +7,8 @@ ZCZC W03 200 L02 CLASSROOM related
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 10 L04 GitHub Pages related
 ZCZC W03 45 L64 Helping a friend (OS related problem)
-ZCZC W03 100 L80 Watching: YouTube (Windah Basudara)
+ZCZC W03 100 L70 Studying Staprob for presentation
+ZCZC W03 200 L80 Watching: YouTube (Windah Basudara), Movie (TMNT: Mutant Mayhem)
 ZCZC W03 45 L88 Workout
 ZCZC W03 60 L81 Listening: Music on Spotify 
 ZCZC W03 60 L09 Weekly Assignments
