@@ -24,3 +24,9 @@ Explains bash in just 100 seconds
 
 7. [Fireship](https://youtube.com/@Fireship?si=xWP3np_O0FVbtTyI)<br>
 Great Youtube channel for developers
+
+8. [Makefiles Make Your Life Easier](https://youtu.be/yWLkyN_Satk?si=FF1JFVeUNSZugBeK)<br>
+A great video for explaining MakeFiles, featuring high-quality video and excellent sound.
+
+9. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=keHoQ0T-F4o48KEx)<br>
+Watch this video to learn about pointers more easily.
