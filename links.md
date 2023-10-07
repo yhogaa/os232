@@ -30,3 +30,9 @@ A great video for explaining MakeFiles, featuring high-quality video and excelle
 
 9. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=keHoQ0T-F4o48KEx)<br>
 Watch this video to learn about pointers more easily.
+
+10. [Introduction to Cache Memory](https://youtu.be/Ez_kyBS-y5w?si=CIV3gxnLLBDiXlzN)<br>
+Nesso Academy explains cache memory with easy-to-understand and illustrative examples.
+
+11. [OS57 - Thrashing | Working Set](https://youtu.be/cmloi8NSQgk?si=4bMk92wuwqATRKCH)<br>
+A short video explaining what a working set and trashing are.
