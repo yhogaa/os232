@@ -2,9 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt 
 
-ZCZC W06 5 L61 Backup Virtual Box
-ZCZC W06 180 L84 Relax, Rest, Nap, and Sleep
-ZCZC W06 30 L21 Trying something
 ZCZC W06 30 L01 SCELE/Discord related
 ZCZC W06 200 L02 CLASSROOM related
 ZCZC W06 10 L03 GitHub related
@@ -14,7 +11,11 @@ ZCZC W06 100 L70 Studying Staprob for presentation
 ZCZC W06 150 L80 Watching: YouTube (Windah Basudara), Movie (Loki Season 2, Rick and Morty Season 7, Gen V)
 ZCZC W06 40 L73 Playing Poly bridges 2, Storyteller
 ZCZC W06 30 L88 Workout
+ZCZC W06 10 L05 QUIZ
 ZCZC W06 30 L81 Listening: Music on Spotify (Daniel Caessar on repeat)
+ZCZC W06 5 L61 Backup Virtual Box
+ZCZC W06 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W06 30 L21 Trying something
 ZCZC W06 60 L09 Weekly Assignments
 ZCZC W05 30 L01 SCELE/Discord related
 ZCZC W05 100 L02 CLASSROOM related
