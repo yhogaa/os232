@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt 
 
+ZCZC W06 5 L61 Backup Virtual Box
+ZCZC W06 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W06 30 L21 Trying something
 ZCZC W06 30 L01 SCELE/Discord related
 ZCZC W06 200 L02 CLASSROOM related
 ZCZC W06 10 L03 GitHub related
