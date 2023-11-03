@@ -36,3 +36,9 @@ Nesso Academy explains cache memory with easy-to-understand and illustrative exa
 
 11. [OS57 - Thrashing | Working Set](https://youtu.be/cmloi8NSQgk?si=4bMk92wuwqATRKCH)<br>
 A short video explaining what a working set and trashing are.
+
+12. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=tMuZ5-KneczaeUpT)<br>
+The video from NesoAcademy explainn about processes and threads.
+
+13. [Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=Nd7LeUVvg3uk1KWe)<br>
+Explanation about process and thread in under 2 minutes.
