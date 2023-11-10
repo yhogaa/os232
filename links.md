@@ -43,7 +43,7 @@ The video from NesoAcademy explainn about processes and threads.
 13. [Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=Nd7LeUVvg3uk1KWe)<br>
 Explanation about process and thread in under 2 minutes.
 
-14. [Kebuntuan dalam Sistem Operasi | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=aSxLnVVLOUzhP4PK)<br>
+14. [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=aSxLnVVLOUzhP4PK)<br>
 Video explanation about what is deadlock from GFG.
 
 15. [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction)<br>
