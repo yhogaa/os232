@@ -2,6 +2,19 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt 
 
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 200 L02 CLASSROOM related
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 10 L04 GitHub Pages related
+ZCZC W08 30 L64 Helping a friend (OS related problem)
+ZCZC W08 180 L80 Watching: YouTube (Windah Basudara), Movie (The Creator, Rick and Morty Season 7)
+ZCZC W08 30 L73 Playing Storyteller
+ZCZC W08 30 L88 Workout
+ZCZC W08 7 L05 QUIZ
+ZCZC W08 30 L81 Listening: Music on Spotify 
+ZCZC W08 150 L84 Relax, Rest, Nap, and Sleep
+ZCZC W08 30 L21 Trying something
+ZCZC W08 60 L09 Weekly Assignments
 ZCZC W07 30 L01 SCELE/Discord related
 ZCZC W07 200 L02 CLASSROOM related
 ZCZC W07 10 L03 GitHub related
