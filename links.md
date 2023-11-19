@@ -47,4 +47,10 @@ Explanation about process and thread in under 2 minutes.
 Video explanation about what is deadlock from GFG.
 
 15. [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction)<br>
-What is deadlock? you can read it from this website from javatpoint. 
+What is deadlock? you can read it from this website from javatpoint.
+
+16. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=2WIRP7999qi_j2U2)<br>
+PLaylist from Kernotex about how to install LFS 12.0 on real hardware.
+
+17. [CPU Scheduling | Chapter-5 | Operating System](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&si=M6ouJ5s_vOPcM_4K)<br>
+CPU scheduling playslist from Neso Academy
